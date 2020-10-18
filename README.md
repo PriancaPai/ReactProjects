@@ -2,4 +2,4 @@
 
 To Do List Project 
 
-[Alt text](https://github.com/PriancaPai/ReactProjects/tree/master/test.png)
+<img src="https://github.com/PriancaPai/ReactProjects/tree/master/test.png" width="100" height="100"/>
